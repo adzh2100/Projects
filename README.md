@@ -1,2 +1,2 @@
-# OOP Project
-Shopping system
+# Shopping system
+OOP Project
