@@ -1,2 +1,2 @@
-#Projects
+Projects
 University C++ Projects.
